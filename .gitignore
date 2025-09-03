@@ -1,0 +1,6 @@
+.env
+
+/laravel/node_modules
+/laravel/.env
+/laravel/composer.lock
+/laravel/package-lock.json
